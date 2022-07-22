@@ -61,3 +61,11 @@ It's pretty easy, here you have a little guide of how to do it:
 	```
 	export  const  templateList  = ['BasicDesign',  'SquareDesign', ... , YOUR_TEMPLATE_NAME];
 	```
+## New features
+1. New interface
+2. Button to import data in JSON format
+3. Button to export data in JSON format
+4. Button to delete all data
+5. Responsive design
+6. New templates for CV
+7. Default username when downloading cv
