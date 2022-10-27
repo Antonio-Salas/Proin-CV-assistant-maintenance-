@@ -150,7 +150,7 @@ export default function BasicDesign() {
                                             </span>
                                             <span className="right-panel__education__item__date db">
                                                 {convertDate(item.start)} -
-                                                {convertDate(item.start)}`
+                                                {convertDate(item.end)}`
                                             </span>
                                         </div>
                                     );
